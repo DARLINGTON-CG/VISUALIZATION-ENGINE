@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VISUALIZATION-ENGINE", "VISUALIZATION-ENGINE\VISUALIZATION-ENGINE.vcxproj", "{8A6E8F58-43FE-4C90-B12F-EC713E33BADB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{DAC29805-6AD3-42B0-A90D-4F52260E072A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6E8F58-43FE-4C90-B12F-EC713E33BADB}.Debug|x64.ActiveCfg = Debug|x64
+		{8A6E8F58-43FE-4C90-B12F-EC713E33BADB}.Debug|x64.Build.0 = Debug|x64
+		{8A6E8F58-43FE-4C90-B12F-EC713E33BADB}.Release|x64.ActiveCfg = Release|x64
+		{8A6E8F58-43FE-4C90-B12F-EC713E33BADB}.Release|x64.Build.0 = Release|x64
+		{DAC29805-6AD3-42B0-A90D-4F52260E072A}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC29805-6AD3-42B0-A90D-4F52260E072A}.Debug|x64.Build.0 = Debug|x64
+		{DAC29805-6AD3-42B0-A90D-4F52260E072A}.Release|x64.ActiveCfg = Release|x64
+		{DAC29805-6AD3-42B0-A90D-4F52260E072A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C4EA1A-6BD5-463C-90F8-3A4C673FB091}
+	EndGlobalSection
+EndGlobal
